@@ -1,2 +1,2 @@
 # New
-First Project
+First Project; git> cd Desktop> gitclone
