@@ -1,0 +1,4 @@
+import random
+
+name = ["amy", "sunny", "avery"]
+print(random.choice(name))

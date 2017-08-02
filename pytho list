@@ -1,0 +1,28 @@
+food = ["oreos", "icecream", "pizza"]
+
+print(food[0])
+print (food[2])
+1= print(len(food)) -1
+
+food[2] = 1
+
+print(newlist)
+del newlist[2]
+print(newlist)
+
+
+newlist.append(2009)
+print(newlist)
+newlist.insert(4, "tea")
+print(newlist)
+x=[[]2,{
+x = 2.[
+
+print(x[0][0])
+print(len(x))
+print(len(x[1])
+
+color = [red, green, blue]
+picture- [p1,p2,p3,,]
+picturereal = rgb, [r1, b1, g2]
+pictue = []

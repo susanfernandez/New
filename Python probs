@@ -1,0 +1,3 @@
+def isScalene(x, y, z)
+  if x != y != z
+  return True
